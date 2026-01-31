@@ -9,7 +9,7 @@ description: "КП «Баланс» — элитный коттеджный по
 
 > Совместный проект с ГК «Точно»
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Falexbaltser.github.io%2Fkp-balance-strategy&count_bg=%23007bff&title_bg=%23555555&icon=&title=просмотров&edge_flat=true" alt="Просмотры" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=alexbaltser.kp-balance-strategy" alt="visitors" />
 
 ---
 
