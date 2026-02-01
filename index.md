@@ -9,8 +9,6 @@ description: "КП «Баланс» — элитный коттеджный по
 
 > Совместный проект с ГК «Точно»
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=alexbaltser.kp-balance-strategy" alt="visitors" />
-
 ---
 
 ## Разделы документации
